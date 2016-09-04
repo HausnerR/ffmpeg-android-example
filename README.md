@@ -4,7 +4,8 @@ Example app that use ffmpeg library to play video.
 
 ## Requirements
 
-Installed Android NDK and builded this project https://github.com/HausnerR/ffmpeg-android-build.
+1. Installed Android NDK,
+2. Builded project https://github.com/HausnerR/ffmpeg-android-build.
 
 ## Howto
 
